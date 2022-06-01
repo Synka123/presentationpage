@@ -1,1 +1,88 @@
 
+body {
+
+  font-family: 'Comfortaa', cursive;
+
+}
+#tittle {
+  background-color: #7FB5FF;
+
+
+
+}
+img {
+    height: calc(100vh - your-last-item-height);
+    max-width:100%;
+}
+.mainheading {
+  margin-top: 20px;
+}
+nav {
+background-color: #001D6E;
+
+}
+.navelements {
+  font-size: 1rem;
+color: #FCFFE7;
+
+}
+.navelements1 {
+    font-size: 1rem;
+    color: #FCFFE7;
+}
+.navelements2 {
+  color: #FCFFE7;
+  margin-left: 0px;
+}
+.radiationimg {
+  width: 700px;
+  margin-bottom: 30px;
+}
+
+
+.cards123 {
+  background-color: #9BA3EB;
+}
+.card {
+  background-color: #9BA3EB;
+}
+.infos {
+  background-color: #C4DDFF;
+  text-align: center;
+
+
+}
+.infosheading {
+  text-align: center;
+  margin-top: 20px;
+}
+.infosimages {
+  text-align: center;
+  width: 220px;
+  margin-top: 20px;
+}
+#photos {
+ text-align: center;
+ background-color: #7FB5FF;
+ padding-top: 25px;
+ padding-bottom: 25px;
+
+
+}
+.xrayimg {
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+border-radius: 100%
+}
+#links {
+  text-align: center;
+  background-color: #C4DDFF;
+  padding-top: 40px;
+}
+@media (max-width: 900px) {
+  #links {
+    padding-top: 20px;
+  }
+}
+
